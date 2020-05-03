@@ -1,5 +1,5 @@
 # anchated
-Simple anonymous char roulet with editable connector. It's not hard to run your own server, btw (check main.py and edit cursed_client.py constants)
+Simple anonymous chat roulet. It's not hard to run your own server btw (check main.py and edit cursed_client.py constants)
 
 ### !!!WARNING!!!
 encryption is not used at all, raw data is being transmitted
